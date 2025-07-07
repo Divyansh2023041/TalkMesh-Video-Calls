@@ -6,6 +6,7 @@
 
 **TalkMesh** is a full-stack real-time chat and video calling web application built with the MERN stack. It enables secure 1-on-1 and group conversations with high-quality video communication, screen sharing, and intelligent user management.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://talkmesh-video-call.onrender.com/)
 ---
 
 ## 🔥 Features
@@ -26,8 +27,8 @@
 - **Frontend**: React, TailwindCSS, Zustand, Stream.IO Client
 - **Backend**: Node.js, Express, MongoDB, Stream.IO Server
 - **Others**: JWT, Dotenv, CORS.
+- 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]([https://your-deployed-url.com](https://talkmesh-video-call.onrender.com/))
 
 ---
 
