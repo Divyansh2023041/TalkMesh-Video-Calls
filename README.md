@@ -27,6 +27,8 @@
 - **Backend**: Node.js, Express, MongoDB, Stream.IO Server
 - **Others**: JWT, Dotenv, CORS.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]([https://your-deployed-url.com](https://talkmesh-video-call.onrender.com/))
+
 ---
 
 ## 📁 .env Setup
