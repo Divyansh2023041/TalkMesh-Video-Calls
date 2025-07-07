@@ -23,9 +23,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, TailwindCSS, Zustand, Socket.IO Client
-- **Backend**: Node.js, Express, MongoDB, Socket.IO Server
-- **Others**: JWT, Multer, Dotenv, CORS, Morgan
+- **Frontend**: React, TailwindCSS, Zustand, Stream.IO Client
+- **Backend**: Node.js, Express, MongoDB, Stream.IO Server
+- **Others**: JWT, Dotenv, CORS.
 
 ---
 
@@ -42,9 +42,6 @@ NODE_ENV=development
 
 
 Frontend (/frontend)
-env
-Copy
-Edit
 VITE_BACKEND_API=http://localhost:5000
 
 🧩 Run the Project
