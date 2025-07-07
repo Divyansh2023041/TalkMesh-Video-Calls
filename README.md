@@ -1,5 +1,6 @@
 # ✨ TalkMesh – Real-Time Chat & Video Calling App ✨
 
+![image](https://github.com/user-attachments/assets/35f32539-08da-45e7-bf68-24fd5f1674a3)
 
 ## 🚀 Overview
 
